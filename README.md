@@ -3,6 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Karthik+S;Java+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Welcome+to+my+GitHub+Profile!)
 
 </div>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=KARTHIK%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer&descSize=22&descAlign=50&descAlignY=60" width="100%" />
 
